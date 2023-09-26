@@ -2,7 +2,7 @@
 This system is named as Bicycle Rental System. It is designed to help the students 
 to take bicycles for rent. In this system, bicycle owners who want to give their bicycles 
 for rent can register themselves and add their bicycle details. The customers can register 
-themselves as renters, they search for the bicycle that they want to rent and take that 
+themselves as renters, they search for the bicycle that they want to rent and take that
 bicycle for rent. Details of both the customers and the sellers will be taken and validated 
 to avoid mistakes. Bicycle parked location is required because customer can take the 
 bicycle only by going to that location.
